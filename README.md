@@ -23,3 +23,6 @@ to find the file to search the file
 issue 1
 
 バカ
+
+Systemctl command の勉強しました。
+KILLでプロセス
