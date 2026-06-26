@@ -22,7 +22,7 @@ to find the file to search the file
  issueO
 issue 1
 
-バカ
+
 
 Systemctl command の勉強しました。
 KILLでプロセス
