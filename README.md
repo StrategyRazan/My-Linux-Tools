@@ -12,3 +12,12 @@ alias alias lpw='ls -l;pwd;whoami'
 
 ## 実は
 ここで編集ができます。
+
+Lets work ahrd today bro
+
+to find the file to search the file 
+ find . -type d -name ".git"
+./repositories/my-linux-tootls/.git
+
+ issueO
+issue 1
